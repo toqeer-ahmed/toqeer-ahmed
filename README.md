@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f051d,1e0a3d,3b1175,5a1b9a&height=280&section=header&text=TOQEER%20AHMED&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20%26%20AI/ML%20Engineer&descAlignY=65&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,50:1e0a3d,100:3b1175&height=280&section=header&text=TOQEER%20AHMED&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20%26%20AI/ML%20Engineer&descAlignY=65&descAlign=50" width="100%" alt="Header Banner" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+ML+Engineer;Computer+Vision+Researcher;Full+Stack+Developer;Open+Source+Contributor;Backend+Engineer;Research+Enthusiast" alt="Typing SVG" />
@@ -348,7 +349,7 @@ An enterprise-grade, relational e-commerce platform featuring secure shopping ca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toqeer-ahmed&show_icons=true&theme=radical&bg_color=0d0b18&title_color=a78bfa&text_color=e2e8f0&icon_color=8b5cf6&border_color=3b0764" alt="Toqeer's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeer-ahmed&layout=compact&theme=radical&bg_color=0d0b18&title_color=a78bfa&text_color=e2e8f0&icon_color=8b5cf6&border_color=3b0764" alt="Toqeer's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toqeer-ahmed&layout=compact&theme=radical&bg_color=0d0b18&title_color=a78bfa&text_color=e2e8f0&icon_color=8b5cf6&border_color=3b0764" alt="Toqeer's Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -413,5 +414,5 @@ open_to: "Graduate Research Opportunities, AI/ML Engineering Internships, Core S
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5a1b9a,3b1175,1e0a3d,0f051d&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a1b9a,50:3b1175,100:0f051d&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
