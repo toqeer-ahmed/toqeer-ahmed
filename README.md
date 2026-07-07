@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,50:1e0a3d,100:3b1175&height=280&section=header&text=TOQEER%20AHMED&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20%26%20AI/ML%20Engineer&descAlignY=65&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,50:1e0a3d,100:3b1175&height=280&section=header&text=TOQEER%20AHMED&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20%26%20AI/ML%20Engineer&descAlignY=65&descAlign=50&v=2" width="100%" alt="Header Banner" />
 </p>
+
 
 
 <p align="center">
@@ -343,42 +344,6 @@ An enterprise-grade, relational e-commerce platform featuring secure shopping ca
   </a>
 </p>
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqeer-ahmed&show_icons=true&theme=radical&bg_color=0d0b18&title_color=a78bfa&text_color=e2e8f0&icon_color=8b5cf6&border_color=3b0764" alt="Toqeer's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toqeer-ahmed&layout=compact&theme=radical&bg_color=0d0b18&title_color=a78bfa&text_color=e2e8f0&icon_color=8b5cf6&border_color=3b0764" alt="Toqeer's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeer-ahmed&theme=dark&background=0d0b18&fire=a78bfa&ring=8b5cf6&stroke=3b0764&currStreakNum=ffffff&sideNums=e2e8f0&sideLabels=e2e8f0&dates=a78bfa" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toqeer-ahmed&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toqeer-ahmed&bg_color=0d0b18&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-## Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/toqeer-ahmed/toqeer-ahmed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" />
-</p>
 
 ---
 
@@ -414,5 +379,5 @@ open_to: "Graduate Research Opportunities, AI/ML Engineering Internships, Core S
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a1b9a,50:3b1175,100:0f051d&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a1b9a,50:3b1175,100:0f051d&height=120&section=footer&v=2" width="100%" alt="Footer Banner" />
 </p>
