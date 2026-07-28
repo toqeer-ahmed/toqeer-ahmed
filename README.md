@@ -254,18 +254,18 @@ An enterprise-grade, relational e-commerce platform featuring secure shopping ca
 
 ## Experience
 
-* **ACM GIKI Chapter** | Management Head  
+* **ACM GIKI Chapter** | Director Sponsorship  
   *Duration: 2023 - Present*  
   * Organized and hosted *Softcom*, GIKI's flagship national technology event, managing operations and coordination for hundreds of external participants.
   * Conducted regular hands-on C++ programming workshops at GIKI, providing technical mentorship to junior software engineering students.
   * *Technologies Used: C++, Git, Technical Event Orchestration, Team Leadership.*
   
-* **SOPHEP GIKI Society** | Sponsorship & Liaison Head  
+* **SOPHEP GIKI Society** | Chief Liaison Officer  
   *Duration: 2023 - Present*  
   * Lead corporate outreach campaigns, successfully securing 1M+ PKR in commercial sponsorships from national firms to support tech exhibitions and student projects.
   * Developed and executed public relations campaigns across corporate contacts and academic networks.
   
-* **Freelance Software Developer** | Gujranwala, Pakistan  
+* **Freelance Software Developer**   
   *Duration: 2023 - 2024*  
   * Designed, built, and sold a database-driven e-commerce platform to a local electronics retailer.
   * Handled client alignment, database schema design, and final production delivery.
@@ -326,7 +326,7 @@ An enterprise-grade, relational e-commerce platform featuring secure shopping ca
   <a href="https://github.com/toqeer-ahmed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- TODO: Replace placeholder links with your actual profiles once created -->
+  <!-- TODO: Replace placeholder links with your actual profiles once created 
   <a href="https://leetcode.com/u/toqeer-ahmed/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
@@ -342,7 +342,7 @@ An enterprise-grade, relational e-commerce platform featuring secure shopping ca
   <a href="https://codeforces.com/profile/toqeer_ahmed" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-</p>
+</p>    -->
 
 
 ---
